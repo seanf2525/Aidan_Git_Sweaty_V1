@@ -13220,6 +13220,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17843557859",
       "year": 2026
+    },
+    {
+      "date": "2026-03-25",
+      "hour": 12,
+      "name": "Zwift - TrainerRoad: Haw",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17855983284",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -25211,6 +25220,15 @@
           "distance": 49722.0,
           "elevation_gain": 79.0,
           "moving_time": 4506.0
+        },
+        "2026-03-25": {
+          "activity_ids": [
+            "17855983284"
+          ],
+          "count": 1,
+          "distance": 57182.7,
+          "elevation_gain": 85.0,
+          "moving_time": 5417.0
         }
       },
       "Walk": {
@@ -25255,7 +25273,7 @@
       }
     }
   },
-  "generated_at": "2026-03-25T16:12:32.434201+00:00",
+  "generated_at": "2026-03-26T16:13:02.186591+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
