@@ -13229,6 +13229,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17855983284",
       "year": 2026
+    },
+    {
+      "date": "2026-03-26",
+      "hour": 13,
+      "name": "Zwift - TrainerRoad: Bess",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17867836528",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -25229,6 +25238,15 @@
           "distance": 57182.7,
           "elevation_gain": 85.0,
           "moving_time": 5417.0
+        },
+        "2026-03-26": {
+          "activity_ids": [
+            "17867836528"
+          ],
+          "count": 1,
+          "distance": 22519.5,
+          "elevation_gain": 33.0,
+          "moving_time": 2197.0
         }
       },
       "Walk": {
@@ -25273,7 +25291,7 @@
       }
     }
   },
-  "generated_at": "2026-03-26T16:13:02.186591+00:00",
+  "generated_at": "2026-03-27T15:55:25.816140+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
