@@ -19121,5 +19121,44 @@
     "start_date_local": "2026-03-26T13:06:55Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 14574.1,
+    "elevation_gain": 24.0,
+    "id": "17878283914",
+    "moving_time": 1349.0,
+    "name": "Zwift - TrainerRoad: Monitor +5",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-27T11:43:41Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 37230.2,
+    "elevation_gain": 475.0,
+    "id": "17879021639",
+    "moving_time": 3729.0,
+    "name": "Zwift - Group Ride: Chasing SYNers Ride  (C)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-27T12:15:16Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 2514.4,
+    "elevation_gain": 47.0,
+    "id": "17879112059",
+    "moving_time": 472.0,
+    "name": "Zwift - The Classic in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-27T13:18:02Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

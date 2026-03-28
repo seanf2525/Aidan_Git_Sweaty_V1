@@ -13238,6 +13238,33 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17867836528",
       "year": 2026
+    },
+    {
+      "date": "2026-03-27",
+      "hour": 11,
+      "name": "Zwift - TrainerRoad: Monitor +5",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17878283914",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-27",
+      "hour": 12,
+      "name": "Zwift - Group Ride: Chasing SYNers Ride  (C)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17879021639",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-27",
+      "hour": 13,
+      "name": "Zwift - The Classic in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17879112059",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -25247,6 +25274,17 @@
           "distance": 22519.5,
           "elevation_gain": 33.0,
           "moving_time": 2197.0
+        },
+        "2026-03-27": {
+          "activity_ids": [
+            "17878283914",
+            "17879021639",
+            "17879112059"
+          ],
+          "count": 3,
+          "distance": 54318.7,
+          "elevation_gain": 546.0,
+          "moving_time": 5550.0
         }
       },
       "Walk": {
@@ -25291,7 +25329,7 @@
       }
     }
   },
-  "generated_at": "2026-03-27T15:55:25.816140+00:00",
+  "generated_at": "2026-03-28T15:34:03.191997+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
