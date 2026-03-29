@@ -19160,5 +19160,18 @@
     "start_date_local": "2026-03-27T13:18:02Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 76117.1,
+    "elevation_gain": 117.0,
+    "id": "17893352064",
+    "moving_time": 7215.0,
+    "name": "Zwift - TrainerRoad: Geary",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-28T15:02:27Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
