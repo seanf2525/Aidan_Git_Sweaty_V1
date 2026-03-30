@@ -13274,6 +13274,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17893352064",
       "year": 2026
+    },
+    {
+      "date": "2026-03-29",
+      "hour": 11,
+      "name": "Lunch Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/17905283099",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -24672,6 +24681,15 @@
           "distance": 5225.1,
           "elevation_gain": 84.2,
           "moving_time": 4041.0
+        },
+        "2026-03-29": {
+          "activity_ids": [
+            "17905283099"
+          ],
+          "count": 1,
+          "distance": 10516.5,
+          "elevation_gain": 612.2,
+          "moving_time": 11034.0
         }
       },
       "Ride": {
@@ -25347,7 +25365,7 @@
       }
     }
   },
-  "generated_at": "2026-03-29T15:34:37.894872+00:00",
+  "generated_at": "2026-03-30T16:07:09.817397+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
