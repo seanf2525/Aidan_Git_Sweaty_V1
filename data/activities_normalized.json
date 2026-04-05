@@ -19251,5 +19251,44 @@
     "start_date_local": "2026-04-03T13:17:29Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 5664.3,
+    "elevation_gain": 275.4,
+    "id": "17978695125",
+    "moving_time": 5751.0,
+    "name": "Lunch Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-04-04T12:03:56Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 6590.6,
+    "elevation_gain": 67.0,
+    "id": "17980077935",
+    "moving_time": 539.0,
+    "name": "Zwift - Race: Tiny Race (1 of 4) by Zwift Insider (A)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-04T17:02:15Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 37626.3,
+    "elevation_gain": 242.0,
+    "id": "17981951158",
+    "moving_time": 3604.0,
+    "name": "Zwift - Group Ride: 4STAR Weekend Endurance Ride  (C)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-04T21:00:24Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
