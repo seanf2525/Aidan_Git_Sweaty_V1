@@ -19303,5 +19303,18 @@
     "start_date_local": "2026-04-05T16:15:06Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 47701.0,
+    "elevation_gain": 75.0,
+    "id": "18020655604",
+    "moving_time": 4506.0,
+    "name": "Zwift - TrainerRoad: Collins +1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-07T19:04:42Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

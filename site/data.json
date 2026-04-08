@@ -13364,6 +13364,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17992849597",
       "year": 2026
+    },
+    {
+      "date": "2026-04-07",
+      "hour": 19,
+      "name": "Zwift - TrainerRoad: Collins +1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18020655604",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -25467,6 +25476,15 @@
           "distance": 93822.4,
           "elevation_gain": 143.0,
           "moving_time": 9072.0
+        },
+        "2026-04-07": {
+          "activity_ids": [
+            "18020655604"
+          ],
+          "count": 1,
+          "distance": 47701.0,
+          "elevation_gain": 75.0,
+          "moving_time": 4506.0
         }
       },
       "Walk": {
@@ -25511,7 +25529,7 @@
       }
     }
   },
-  "generated_at": "2026-04-07T16:11:45.049167+00:00",
+  "generated_at": "2026-04-08T16:16:09.140081+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
