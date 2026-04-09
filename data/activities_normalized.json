@@ -19316,5 +19316,31 @@
     "start_date_local": "2026-04-07T19:04:42Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 4269.4,
+    "elevation_gain": 6.0,
+    "id": "18034537420",
+    "moving_time": 470.0,
+    "name": "Zwift - TrainerRoad: Pioneer -3",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-08T19:44:01Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 16782.3,
+    "elevation_gain": 202.0,
+    "id": "18034896563",
+    "moving_time": 1837.0,
+    "name": "Zwift - Group Ride: Hump Day Ride p/b Team Giant (C)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-08T20:00:39Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

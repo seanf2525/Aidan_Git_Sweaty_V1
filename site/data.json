@@ -13373,6 +13373,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18020655604",
       "year": 2026
+    },
+    {
+      "date": "2026-04-08",
+      "hour": 19,
+      "name": "Zwift - TrainerRoad: Pioneer -3",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18034537420",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-08",
+      "hour": 20,
+      "name": "Zwift - Group Ride: Hump Day Ride p/b Team Giant (C)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18034896563",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -25485,6 +25503,16 @@
           "distance": 47701.0,
           "elevation_gain": 75.0,
           "moving_time": 4506.0
+        },
+        "2026-04-08": {
+          "activity_ids": [
+            "18034537420",
+            "18034896563"
+          ],
+          "count": 2,
+          "distance": 21051.699999999997,
+          "elevation_gain": 208.0,
+          "moving_time": 2307.0
         }
       },
       "Walk": {
@@ -25529,7 +25557,7 @@
       }
     }
   },
-  "generated_at": "2026-04-08T16:16:09.140081+00:00",
+  "generated_at": "2026-04-09T16:19:50.297196+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
