@@ -13418,6 +13418,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18085398431",
       "year": 2026
+    },
+    {
+      "date": "2026-04-14",
+      "hour": 19,
+      "name": "Zwift - TrainerRoad: Cumberland -3",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18112379588",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -25567,6 +25576,15 @@
           "distance": 21051.699999999997,
           "elevation_gain": 208.0,
           "moving_time": 2307.0
+        },
+        "2026-04-14": {
+          "activity_ids": [
+            "18112379588"
+          ],
+          "count": 1,
+          "distance": 47312.1,
+          "elevation_gain": 73.0,
+          "moving_time": 4526.0
         }
       },
       "Walk": {
@@ -25611,7 +25629,7 @@
       }
     }
   },
-  "generated_at": "2026-04-14T16:08:46.055878+00:00",
+  "generated_at": "2026-04-15T16:07:13.840558+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
