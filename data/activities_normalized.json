@@ -19394,5 +19394,31 @@
     "start_date_local": "2026-04-14T19:13:56Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 12817.6,
+    "elevation_gain": 20.0,
+    "id": "18125417343",
+    "moving_time": 1289.0,
+    "name": "Zwift - TrainerRoad: Monterey",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-15T19:16:06Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 35143.5,
+    "elevation_gain": 306.0,
+    "id": "18126127881",
+    "moving_time": 3399.0,
+    "name": "Zwift - Group Ride: Hump Day Ride p/b Team Giant (C)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-15T20:01:19Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
