@@ -19420,5 +19420,31 @@
     "start_date_local": "2026-04-15T20:01:19Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 75776.3,
+    "elevation_gain": 117.0,
+    "id": "18151265239",
+    "moving_time": 7320.0,
+    "name": "Zwift - TrainerRoad: Yarbrough",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-17T17:48:21Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 48888.7,
+    "elevation_gain": 1224.0,
+    "id": "18158718444",
+    "moving_time": 7868.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-18T07:41:26Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
