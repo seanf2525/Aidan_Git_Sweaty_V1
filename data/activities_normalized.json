@@ -19442,9 +19442,35 @@
     "moving_time": 7868.0,
     "name": "Morning Ride",
     "raw_activity_type": "Ride",
-    "raw_type": "Ride",
+    "raw_type": "GravelRide",
     "start_date_local": "2026-04-18T07:41:26Z",
-    "type": "Ride",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 7031.5,
+    "elevation_gain": 60.0,
+    "id": "18173165395",
+    "moving_time": 625.0,
+    "name": "Zwift - Race: Stage 2: Pas Racing: Handful of Gravel (A)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-19T10:10:21Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 7556.4,
+    "elevation_gain": 208.0,
+    "id": "18173587160",
+    "moving_time": 1468.0,
+    "name": "Zwift - Group Ride: PACK\ud83d\udc3a Banded Buddies (E)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-19T10:25:42Z",
+    "type": "VirtualRide",
     "year": 2026
   }
 ]

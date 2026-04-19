@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T15:38:59.034060+00:00",
+  "generated_at": "2026-04-19T15:39:08.818020+00:00",
   "years": {
     "2019": {
       "Ride": {
@@ -11384,6 +11384,15 @@
           "distance": 68027.5,
           "elevation_gain": 1650.0,
           "moving_time": 9897.0
+        },
+        "2026-04-18": {
+          "activity_ids": [
+            "18158718444"
+          ],
+          "count": 1,
+          "distance": 48888.7,
+          "elevation_gain": 1224.0,
+          "moving_time": 7868.0
         }
       },
       "Hike": {
@@ -11561,15 +11570,6 @@
           "distance": 63550.6,
           "elevation_gain": 1091.0,
           "moving_time": 8680.0
-        },
-        "2026-04-18": {
-          "activity_ids": [
-            "18158718444"
-          ],
-          "count": 1,
-          "distance": 48888.7,
-          "elevation_gain": 1224.0,
-          "moving_time": 7868.0
         }
       },
       "VirtualRide": {
@@ -12184,6 +12184,16 @@
           "distance": 75776.3,
           "elevation_gain": 117.0,
           "moving_time": 7320.0
+        },
+        "2026-04-19": {
+          "activity_ids": [
+            "18173165395",
+            "18173587160"
+          ],
+          "count": 2,
+          "distance": 14587.9,
+          "elevation_gain": 268.0,
+          "moving_time": 2093.0
         }
       },
       "Walk": {
