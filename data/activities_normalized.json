@@ -19472,5 +19472,31 @@
     "start_date_local": "2026-04-19T10:25:42Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 55726.1,
+    "elevation_gain": 85.0,
+    "id": "18204354546",
+    "moving_time": 5407.0,
+    "name": "Zwift - TrainerRoad: Wild Snow",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-21T16:38:58Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 13584.6,
+    "elevation_gain": 12.0,
+    "id": "18205257542",
+    "moving_time": 3462.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-21T18:22:08Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
