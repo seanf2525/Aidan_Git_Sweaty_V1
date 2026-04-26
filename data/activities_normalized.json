@@ -19524,5 +19524,31 @@
     "start_date_local": "2026-04-23T19:15:00Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 75764.6,
+    "elevation_gain": 117.0,
+    "id": "18256114088",
+    "moving_time": 7216.0,
+    "name": "Zwift - TrainerRoad: Lismore",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-25T12:16:45Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 9992.0,
+    "elevation_gain": 241.0,
+    "id": "18257633839",
+    "moving_time": 3324.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-04-25T16:44:10Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]

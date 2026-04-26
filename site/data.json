@@ -13517,6 +13517,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18233269913",
       "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 12,
+      "name": "Zwift - TrainerRoad: Lismore",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18256114088",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "MountainBikeRide",
+      "type": "MountainBikeRide",
+      "url": "https://www.strava.com/activities/18257633839",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -24962,6 +24980,17 @@
           "moving_time": 5751.0
         }
       },
+      "MountainBikeRide": {
+        "2026-04-25": {
+          "activity_ids": [
+            "18257633839"
+          ],
+          "count": 1,
+          "distance": 9992.0,
+          "elevation_gain": 241.0,
+          "moving_time": 3324.0
+        }
+      },
       "Ride": {
         "2026-01-07": {
           "activity_ids": [
@@ -25749,6 +25778,15 @@
           "distance": 57596.5,
           "elevation_gain": 90.0,
           "moving_time": 5407.0
+        },
+        "2026-04-25": {
+          "activity_ids": [
+            "18256114088"
+          ],
+          "count": 1,
+          "distance": 75764.6,
+          "elevation_gain": 117.0,
+          "moving_time": 7216.0
         }
       },
       "Walk": {
@@ -25793,7 +25831,7 @@
       }
     }
   },
-  "generated_at": "2026-04-25T15:40:48.299779+00:00",
+  "generated_at": "2026-04-26T15:43:35.871206+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
