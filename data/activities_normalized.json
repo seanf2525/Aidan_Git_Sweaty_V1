@@ -19550,5 +19550,31 @@
     "start_date_local": "2026-04-25T16:44:10Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 9625.7,
+    "elevation_gain": 434.7,
+    "id": "18268396062",
+    "moving_time": 9077.0,
+    "name": "Morning Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-04-26T08:59:22Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 18292.7,
+    "elevation_gain": 102.0,
+    "id": "18272871449",
+    "moving_time": 1818.0,
+    "name": "Zwift - Pacer Group Ride with Coco",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-26T19:23:58Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

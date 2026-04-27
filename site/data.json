@@ -13535,6 +13535,24 @@
       "type": "MountainBikeRide",
       "url": "https://www.strava.com/activities/18257633839",
       "year": 2026
+    },
+    {
+      "date": "2026-04-26",
+      "hour": 8,
+      "name": "Morning Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18268396062",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-26",
+      "hour": 19,
+      "name": "Zwift - Pacer Group Ride with Coco",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18272871449",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -24978,6 +24996,15 @@
           "distance": 5664.3,
           "elevation_gain": 275.4,
           "moving_time": 5751.0
+        },
+        "2026-04-26": {
+          "activity_ids": [
+            "18268396062"
+          ],
+          "count": 1,
+          "distance": 9625.7,
+          "elevation_gain": 434.7,
+          "moving_time": 9077.0
         }
       },
       "MountainBikeRide": {
@@ -25787,6 +25814,15 @@
           "distance": 75764.6,
           "elevation_gain": 117.0,
           "moving_time": 7216.0
+        },
+        "2026-04-26": {
+          "activity_ids": [
+            "18272871449"
+          ],
+          "count": 1,
+          "distance": 18292.7,
+          "elevation_gain": 102.0,
+          "moving_time": 1818.0
         }
       },
       "Walk": {
@@ -25831,7 +25867,7 @@
       }
     }
   },
-  "generated_at": "2026-04-26T15:43:35.871206+00:00",
+  "generated_at": "2026-04-27T16:27:43.783227+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
