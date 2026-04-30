@@ -19576,5 +19576,44 @@
     "start_date_local": "2026-04-26T19:23:58Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 2464.7,
+    "elevation_gain": 131.0,
+    "id": "18312506040",
+    "moving_time": 428.0,
+    "name": "Zwift - Climb Portal - Volcano in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-29T18:45:09Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 9167.2,
+    "elevation_gain": 53.0,
+    "id": "18312725218",
+    "moving_time": 912.0,
+    "name": "Zwift - Group Ride: Wednesday Worlds:  CIS Training Systems Group Ride  (C)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-29T19:00:00Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 4224.8,
+    "elevation_gain": 6.0,
+    "id": "18312853976",
+    "moving_time": 498.0,
+    "name": "Zwift - TrainerRoad: Lazy Mountain -2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-29T19:20:34Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
