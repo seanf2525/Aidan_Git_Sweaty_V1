@@ -13607,6 +13607,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18352912061",
       "year": 2026
+    },
+    {
+      "date": "2026-05-04",
+      "hour": 13,
+      "name": "Zwift - Group Ride: Bikealicious Zone 2 Fat Burner Ride (E)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18375768388",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -25915,6 +25924,15 @@
           "distance": 36733.8,
           "elevation_gain": 57.0,
           "moving_time": 3610.0
+        },
+        "2026-05-04": {
+          "activity_ids": [
+            "18375768388"
+          ],
+          "count": 1,
+          "distance": 28818.3,
+          "elevation_gain": 165.0,
+          "moving_time": 3606.0
         }
       },
       "Walk": {
@@ -25959,7 +25977,7 @@
       }
     }
   },
-  "generated_at": "2026-05-04T16:48:04.088361+00:00",
+  "generated_at": "2026-05-05T16:25:35.609480+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",

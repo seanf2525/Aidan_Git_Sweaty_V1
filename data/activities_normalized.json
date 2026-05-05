@@ -19654,5 +19654,18 @@
     "start_date_local": "2026-05-02T19:34:47Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 28818.3,
+    "elevation_gain": 165.0,
+    "id": "18375768388",
+    "moving_time": 3606.0,
+    "name": "Zwift - Group Ride: Bikealicious Zone 2 Fat Burner Ride (E)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-04T13:35:00Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
