@@ -13625,6 +13625,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18402823397",
       "year": 2026
+    },
+    {
+      "date": "2026-05-07",
+      "hour": 12,
+      "name": "Zwift - TrainerRoad: Martin",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18415882092",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -25951,6 +25960,15 @@
           "distance": 47904.8,
           "elevation_gain": 73.0,
           "moving_time": 4507.0
+        },
+        "2026-05-07": {
+          "activity_ids": [
+            "18415882092"
+          ],
+          "count": 1,
+          "distance": 61216.4,
+          "elevation_gain": 94.0,
+          "moving_time": 5418.0
         }
       },
       "Walk": {
@@ -25995,7 +26013,7 @@
       }
     }
   },
-  "generated_at": "2026-05-07T16:52:22.142462+00:00",
+  "generated_at": "2026-05-08T16:14:50.996588+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",

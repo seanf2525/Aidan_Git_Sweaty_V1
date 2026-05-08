@@ -19680,5 +19680,18 @@
     "start_date_local": "2026-05-06T13:05:30Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 61216.4,
+    "elevation_gain": 94.0,
+    "id": "18415882092",
+    "moving_time": 5418.0,
+    "name": "Zwift - TrainerRoad: Martin",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-07T12:47:32Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
