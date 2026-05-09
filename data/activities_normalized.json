@@ -19693,5 +19693,31 @@
     "start_date_local": "2026-05-07T12:47:32Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 6007.6,
+    "elevation_gain": 164.0,
+    "id": "18427355715",
+    "moving_time": 980.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-08T11:54:36Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 24157.0,
+    "elevation_gain": 167.0,
+    "id": "18429016726",
+    "moving_time": 2718.0,
+    "name": "Zwift - Group Ride: Friday Fun - GTR Group Ride (D)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-08T13:52:51Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
