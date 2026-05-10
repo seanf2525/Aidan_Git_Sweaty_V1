@@ -19719,5 +19719,18 @@
     "start_date_local": "2026-05-08T13:52:51Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 74580.9,
+    "elevation_gain": 115.0,
+    "id": "18445006806",
+    "moving_time": 7232.0,
+    "name": "Zwift - TrainerRoad: Senger",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-09T17:26:33Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
