@@ -13670,6 +13670,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18458097526",
       "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 11,
+      "name": "Lunch Ride",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/18480251871",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -25065,6 +25074,15 @@
           "distance": 48888.7,
           "elevation_gain": 1224.0,
           "moving_time": 7868.0
+        },
+        "2026-05-12": {
+          "activity_ids": [
+            "18480251871"
+          ],
+          "count": 1,
+          "distance": 67974.5,
+          "elevation_gain": 1718.0,
+          "moving_time": 9234.0
         }
       },
       "Hike": {
@@ -26085,7 +26103,7 @@
       }
     }
   },
-  "generated_at": "2026-05-12T17:13:24.836313+00:00",
+  "generated_at": "2026-05-13T17:18:40.154977+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
