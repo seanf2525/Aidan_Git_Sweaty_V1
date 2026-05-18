@@ -13715,6 +13715,42 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/18535274202",
       "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 10,
+      "name": "Morning Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18545894156",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 15,
+      "name": "Afternoon Ride",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/18548957163",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/18548969088",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-18",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18555182377",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -25119,6 +25155,16 @@
           "distance": 67974.5,
           "elevation_gain": 1718.0,
           "moving_time": 9234.0
+        },
+        "2026-05-17": {
+          "activity_ids": [
+            "18548957163",
+            "18548969088"
+          ],
+          "count": 2,
+          "distance": 79525.2,
+          "elevation_gain": 1203.0,
+          "moving_time": 10169.0
         }
       },
       "Hike": {
@@ -25185,6 +25231,15 @@
           "distance": 4249.6,
           "elevation_gain": 36.0,
           "moving_time": 4174.0
+        },
+        "2026-05-17": {
+          "activity_ids": [
+            "18545894156"
+          ],
+          "count": 1,
+          "distance": 1830.1,
+          "elevation_gain": 157.0,
+          "moving_time": 2266.0
         }
       },
       "MountainBikeRide": {
@@ -25352,6 +25407,15 @@
           "distance": 75627.5,
           "elevation_gain": 813.0,
           "moving_time": 8896.0
+        },
+        "2026-05-18": {
+          "activity_ids": [
+            "18555182377"
+          ],
+          "count": 1,
+          "distance": 43020.4,
+          "elevation_gain": 729.0,
+          "moving_time": 6665.0
         }
       },
       "VirtualRide": {
@@ -26175,7 +26239,7 @@
       }
     }
   },
-  "generated_at": "2026-05-17T16:00:00.278704+00:00",
+  "generated_at": "2026-05-18T17:30:20.713174+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
