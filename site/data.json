@@ -13751,6 +13751,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18555182377",
       "year": 2026
+    },
+    {
+      "date": "2026-05-18",
+      "hour": 15,
+      "name": "Afternoon Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18569167925",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 7,
+      "name": "Morning Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18569168271",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -25240,6 +25258,24 @@
           "distance": 1830.1,
           "elevation_gain": 157.0,
           "moving_time": 2266.0
+        },
+        "2026-05-18": {
+          "activity_ids": [
+            "18569167925"
+          ],
+          "count": 1,
+          "distance": 5521.3,
+          "elevation_gain": 17.3,
+          "moving_time": 4320.0
+        },
+        "2026-05-19": {
+          "activity_ids": [
+            "18569168271"
+          ],
+          "count": 1,
+          "distance": 6047.3,
+          "elevation_gain": 282.4,
+          "moving_time": 6321.0
         }
       },
       "MountainBikeRide": {
@@ -26239,7 +26275,7 @@
       }
     }
   },
-  "generated_at": "2026-05-18T17:30:20.713174+00:00",
+  "generated_at": "2026-05-19T17:39:09.034779+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
