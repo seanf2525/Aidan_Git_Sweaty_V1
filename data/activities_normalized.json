@@ -19914,5 +19914,31 @@
     "start_date_local": "2026-05-20T03:45:14Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 1267.9,
+    "elevation_gain": 0.0,
+    "id": "18587552024",
+    "moving_time": 1834.0,
+    "name": "Afternoon Stand Up Paddling",
+    "raw_activity_type": "StandUpPaddling",
+    "raw_type": "StandUpPaddling",
+    "start_date_local": "2026-05-20T16:32:53Z",
+    "type": "StandUpPaddling",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 10423.0,
+    "elevation_gain": 475.0,
+    "id": "18596381271",
+    "moving_time": 1922.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-21T10:40:03Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
