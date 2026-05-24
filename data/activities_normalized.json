@@ -19953,5 +19953,31 @@
     "start_date_local": "2026-05-21T11:29:35Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 1552.6,
+    "elevation_gain": 22.9,
+    "id": "18611068964",
+    "moving_time": 1258.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-22T10:26:33Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 14201.0,
+    "elevation_gain": 1572.9,
+    "id": "18627207448",
+    "moving_time": 18306.0,
+    "name": "Morning Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-23T07:11:34Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
