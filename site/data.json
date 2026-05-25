@@ -13832,6 +13832,24 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/18627207448",
       "year": 2026
+    },
+    {
+      "date": "2026-05-24",
+      "hour": 16,
+      "name": "Zwift - TrainerRoad: Stickney",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18640452340",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-24",
+      "hour": 19,
+      "name": "Zwift - TrainerRoad: Dans",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18641582877",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -26342,6 +26360,16 @@
           "distance": 38318.9,
           "elevation_gain": 59.0,
           "moving_time": 3653.0
+        },
+        "2026-05-24": {
+          "activity_ids": [
+            "18640452340",
+            "18641582877"
+          ],
+          "count": 2,
+          "distance": 43014.3,
+          "elevation_gain": 67.0,
+          "moving_time": 4642.0
         }
       },
       "Walk": {
@@ -26395,7 +26423,7 @@
       }
     }
   },
-  "generated_at": "2026-05-24T16:02:17.629266+00:00",
+  "generated_at": "2026-05-25T17:07:24.470546+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",

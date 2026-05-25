@@ -19979,5 +19979,31 @@
     "start_date_local": "2026-05-23T07:11:34Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 26507.9,
+    "elevation_gain": 41.0,
+    "id": "18640452340",
+    "moving_time": 2828.0,
+    "name": "Zwift - TrainerRoad: Stickney",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-24T16:07:19Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 16506.4,
+    "elevation_gain": 26.0,
+    "id": "18641582877",
+    "moving_time": 1814.0,
+    "name": "Zwift - TrainerRoad: Dans",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-24T19:31:24Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
