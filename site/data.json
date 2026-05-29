@@ -13877,6 +13877,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18681745139",
       "year": 2026
+    },
+    {
+      "date": "2026-05-28",
+      "hour": 18,
+      "name": "Zwift - TrainerRoad: Pioneer -3",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18695983560",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -26416,6 +26425,15 @@
           "distance": 53825.7,
           "elevation_gain": 83.0,
           "moving_time": 5412.0
+        },
+        "2026-05-28": {
+          "activity_ids": [
+            "18695983560"
+          ],
+          "count": 1,
+          "distance": 37690.6,
+          "elevation_gain": 59.0,
+          "moving_time": 3606.0
         }
       },
       "Walk": {
@@ -26469,7 +26487,7 @@
       }
     }
   },
-  "generated_at": "2026-05-28T18:13:46.153795+00:00",
+  "generated_at": "2026-05-29T18:13:14.953020+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
