@@ -13886,6 +13886,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18695983560",
       "year": 2026
+    },
+    {
+      "date": "2026-05-29",
+      "hour": 18,
+      "name": "Zwift - TrainerRoad: Eclipse",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18708172137",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-30",
+      "hour": 9,
+      "name": "Zwift - TrainerRoad: Lachat",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18717067360",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -26434,6 +26452,24 @@
           "distance": 37690.6,
           "elevation_gain": 59.0,
           "moving_time": 3606.0
+        },
+        "2026-05-29": {
+          "activity_ids": [
+            "18708172137"
+          ],
+          "count": 1,
+          "distance": 57881.7,
+          "elevation_gain": 91.0,
+          "moving_time": 5418.0
+        },
+        "2026-05-30": {
+          "activity_ids": [
+            "18717067360"
+          ],
+          "count": 1,
+          "distance": 78190.3,
+          "elevation_gain": 120.0,
+          "moving_time": 7218.0
         }
       },
       "Walk": {
@@ -26487,7 +26523,7 @@
       }
     }
   },
-  "generated_at": "2026-05-29T18:13:14.953020+00:00",
+  "generated_at": "2026-05-30T16:06:04.134330+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
