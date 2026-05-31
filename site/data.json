@@ -13904,6 +13904,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18717067360",
       "year": 2026
+    },
+    {
+      "date": "2026-05-31",
+      "hour": 9,
+      "name": "Zwift - TrainerRoad: Colline",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18730851854",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -26470,6 +26479,15 @@
           "distance": 78190.3,
           "elevation_gain": 120.0,
           "moving_time": 7218.0
+        },
+        "2026-05-31": {
+          "activity_ids": [
+            "18730851854"
+          ],
+          "count": 1,
+          "distance": 72582.8,
+          "elevation_gain": 111.0,
+          "moving_time": 7207.0
         }
       },
       "Walk": {
@@ -26523,7 +26541,7 @@
       }
     }
   },
-  "generated_at": "2026-05-30T16:06:04.134330+00:00",
+  "generated_at": "2026-05-31T16:10:39.759482+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
