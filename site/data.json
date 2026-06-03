@@ -13913,6 +13913,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18730851854",
       "year": 2026
+    },
+    {
+      "date": "2026-06-02",
+      "hour": 19,
+      "name": "Zwift - TrainerRoad: Monterey",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18763716123",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-03",
+      "hour": 12,
+      "name": "Lunch Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18772550095",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -26488,6 +26506,15 @@
           "distance": 72582.8,
           "elevation_gain": 111.0,
           "moving_time": 7207.0
+        },
+        "2026-06-02": {
+          "activity_ids": [
+            "18763716123"
+          ],
+          "count": 1,
+          "distance": 54507.4,
+          "elevation_gain": 85.0,
+          "moving_time": 5408.0
         }
       },
       "Walk": {
@@ -26526,6 +26553,15 @@
           "distance": 1552.6,
           "elevation_gain": 22.9,
           "moving_time": 1258.0
+        },
+        "2026-06-03": {
+          "activity_ids": [
+            "18772550095"
+          ],
+          "count": 1,
+          "distance": 2307.1,
+          "elevation_gain": 5.6,
+          "moving_time": 1630.0
         }
       },
       "Yoga": {
@@ -26541,7 +26577,7 @@
       }
     }
   },
-  "generated_at": "2026-06-02T18:40:51.864383+00:00",
+  "generated_at": "2026-06-03T18:44:56.461174+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",

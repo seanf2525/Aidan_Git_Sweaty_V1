@@ -20096,5 +20096,31 @@
     "start_date_local": "2026-05-31T09:13:54Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 54507.4,
+    "elevation_gain": 85.0,
+    "id": "18763716123",
+    "moving_time": 5408.0,
+    "name": "Zwift - TrainerRoad: Monterey",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-02T19:12:13Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 2307.1,
+    "elevation_gain": 5.6,
+    "id": "18772550095",
+    "moving_time": 1630.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-03T12:07:34Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
