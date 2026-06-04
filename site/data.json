@@ -13931,6 +13931,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18772550095",
       "year": 2026
+    },
+    {
+      "date": "2026-06-03",
+      "hour": 19,
+      "name": "Zwift - TrainerRoad: Mokelumne",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18777458765",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -26515,6 +26524,15 @@
           "distance": 54507.4,
           "elevation_gain": 85.0,
           "moving_time": 5408.0
+        },
+        "2026-06-03": {
+          "activity_ids": [
+            "18777458765"
+          ],
+          "count": 1,
+          "distance": 36334.6,
+          "elevation_gain": 57.0,
+          "moving_time": 3608.0
         }
       },
       "Walk": {
@@ -26577,7 +26595,7 @@
       }
     }
   },
-  "generated_at": "2026-06-03T18:44:56.461174+00:00",
+  "generated_at": "2026-06-04T17:46:22.452893+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
