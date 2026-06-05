@@ -20135,5 +20135,31 @@
     "start_date_local": "2026-06-03T19:26:04Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 18817.8,
+    "elevation_gain": 30.0,
+    "id": "18790515628",
+    "moving_time": 1781.0,
+    "name": "Zwift - TrainerRoad: Galena",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-04T19:07:55Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 5536.7,
+    "elevation_gain": 11.0,
+    "id": "18790672353",
+    "moving_time": 627.0,
+    "name": "Zwift - TrainerRoad: Lazy Mountain -1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-04T19:45:42Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
