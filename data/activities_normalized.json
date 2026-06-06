@@ -20161,5 +20161,18 @@
     "start_date_local": "2026-06-04T19:45:42Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 24417.0,
+    "elevation_gain": 0.0,
+    "id": "18803332009",
+    "moving_time": 3065.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-05T19:45:33Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
