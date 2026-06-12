@@ -20213,5 +20213,44 @@
     "start_date_local": "2026-06-08T17:33:22Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 26422.1,
+    "elevation_gain": 40.0,
+    "id": "18884437453",
+    "moving_time": 2542.0,
+    "name": "Zwift - TrainerRoad: Phoenix -3",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-11T18:57:22Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 2033.6,
+    "elevation_gain": 3.0,
+    "id": "18884588388",
+    "moving_time": 192.0,
+    "name": "Zwift - Pacer Group Ride with Yumi",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-11T19:54:19Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-12",
+    "distance": 1703.5,
+    "elevation_gain": 2.6,
+    "id": "18892618461",
+    "moving_time": 1179.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-12T12:01:54Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
