@@ -14102,6 +14102,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18951563427",
       "year": 2026
+    },
+    {
+      "date": "2026-06-17",
+      "hour": 19,
+      "name": "Zwift - TrainerRoad: Sewell",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18964794813",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -26799,6 +26808,15 @@
           "distance": 37921.2,
           "elevation_gain": 59.0,
           "moving_time": 3605.0
+        },
+        "2026-06-17": {
+          "activity_ids": [
+            "18964794813"
+          ],
+          "count": 1,
+          "distance": 6459.0,
+          "elevation_gain": 12.0,
+          "moving_time": 652.0
         }
       },
       "Walk": {
@@ -26879,7 +26897,7 @@
       }
     }
   },
-  "generated_at": "2026-06-17T17:49:55.908185+00:00",
+  "generated_at": "2026-06-18T18:05:56.223968+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
