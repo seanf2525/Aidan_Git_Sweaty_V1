@@ -20382,5 +20382,18 @@
     "start_date_local": "2026-06-17T19:17:50Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 19615.0,
+    "elevation_gain": 32.0,
+    "id": "18977007092",
+    "moving_time": 1808.0,
+    "name": "Zwift - TrainerRoad: King",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-18T17:09:42Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
