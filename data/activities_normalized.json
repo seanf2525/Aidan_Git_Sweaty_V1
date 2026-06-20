@@ -20395,5 +20395,83 @@
     "start_date_local": "2026-06-18T17:09:42Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 231.8,
+    "elevation_gain": 0.0,
+    "id": "18997726365",
+    "moving_time": 46.0,
+    "name": "OTHER",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-18T17:06:45Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 68.7,
+    "elevation_gain": 0.0,
+    "id": "18997772480",
+    "moving_time": 66.0,
+    "name": "OTHER",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-18T17:11:36Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 12801.5,
+    "elevation_gain": 20.0,
+    "id": "18989602894",
+    "moving_time": 1229.0,
+    "name": "Zwift - TrainerRoad: Sewell",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-19T18:33:05Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 5665.3,
+    "elevation_gain": 79.0,
+    "id": "18989797879",
+    "moving_time": 520.0,
+    "name": "Zwift - Race: Stage 3: Level Up Racing: Hilly Route Reverse (A)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-19T19:10:24Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 6168.3,
+    "elevation_gain": 33.0,
+    "id": "18989892890",
+    "moving_time": 535.0,
+    "name": "Zwift - Group Ride: ASIA 130km Endurance Ride (B)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-19T19:22:27Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 33.0,
+    "elevation_gain": 0.0,
+    "id": "18997726332",
+    "moving_time": 148.0,
+    "name": "OTHER",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-19T18:42:59Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
