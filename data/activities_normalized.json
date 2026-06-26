@@ -20538,5 +20538,44 @@
     "start_date_local": "2026-06-24T19:26:34Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 11654.1,
+    "elevation_gain": 20.0,
+    "id": "19067678412",
+    "moving_time": 1172.0,
+    "name": "Zwift - TrainerRoad: Lion Rock +2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-25T19:06:08Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 2348.1,
+    "elevation_gain": 90.0,
+    "id": "19067744315",
+    "moving_time": 361.0,
+    "name": "Zwift - Climb Portal - Volcano in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-25T19:27:10Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 3679.0,
+    "elevation_gain": 6.0,
+    "id": "19068056345",
+    "moving_time": 377.0,
+    "name": "Zwift - TrainerRoad: Manly",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-25T20:02:46Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
