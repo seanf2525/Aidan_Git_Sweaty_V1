@@ -14246,6 +14246,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19068056345",
       "year": 2026
+    },
+    {
+      "date": "2026-06-26",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19079503139",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-27",
+      "hour": 7,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19087476484",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -26042,6 +26060,24 @@
           "distance": 75964.8,
           "elevation_gain": 733.0,
           "moving_time": 8446.0
+        },
+        "2026-06-26": {
+          "activity_ids": [
+            "19079503139"
+          ],
+          "count": 1,
+          "distance": 35912.0,
+          "elevation_gain": 848.0,
+          "moving_time": 5180.0
+        },
+        "2026-06-27": {
+          "activity_ids": [
+            "19087476484"
+          ],
+          "count": 1,
+          "distance": 95503.6,
+          "elevation_gain": 1900.0,
+          "moving_time": 14772.0
         }
       },
       "StandUpPaddling": {
@@ -27119,7 +27155,7 @@
       }
     }
   },
-  "generated_at": "2026-06-26T17:01:16.205803+00:00",
+  "generated_at": "2026-06-27T16:06:09.366935+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
