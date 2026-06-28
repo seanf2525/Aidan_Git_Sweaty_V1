@@ -20586,9 +20586,9 @@
     "moving_time": 5180.0,
     "name": "Evening Ride",
     "raw_activity_type": "Ride",
-    "raw_type": "Ride",
+    "raw_type": "GravelRide",
     "start_date_local": "2026-06-26T19:15:11Z",
-    "type": "Ride",
+    "type": "GravelRide",
     "year": 2026
   },
   {
@@ -20599,9 +20599,9 @@
     "moving_time": 14772.0,
     "name": "Morning Ride",
     "raw_activity_type": "Ride",
-    "raw_type": "Ride",
+    "raw_type": "GravelRide",
     "start_date_local": "2026-06-27T07:01:32Z",
-    "type": "Ride",
+    "type": "GravelRide",
     "year": 2026
   }
 ]
