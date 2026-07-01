@@ -20616,5 +20616,31 @@
     "start_date_local": "2026-06-28T20:09:35Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 16293.5,
+    "elevation_gain": 26.0,
+    "id": "19130503072",
+    "moving_time": 1570.0,
+    "name": "Zwift - TrainerRoad: Coco",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-30T18:58:15Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 3747.4,
+    "elevation_gain": 14.0,
+    "id": "19130609118",
+    "moving_time": 295.0,
+    "name": "Zwift - Race: SISU World Cup - Game 4 (B)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-30T19:30:32Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
