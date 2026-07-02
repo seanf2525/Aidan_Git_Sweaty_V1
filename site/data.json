@@ -14291,6 +14291,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19130609118",
       "year": 2026
+    },
+    {
+      "date": "2026-07-01",
+      "hour": 20,
+      "name": "Zwift - TrainerRoad: Beech",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19144801414",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27121,6 +27130,15 @@
           "distance": 20040.9,
           "elevation_gain": 40.0,
           "moving_time": 1865.0
+        },
+        "2026-07-01": {
+          "activity_ids": [
+            "19144801414"
+          ],
+          "count": 1,
+          "distance": 37527.4,
+          "elevation_gain": 59.0,
+          "moving_time": 3605.0
         }
       },
       "Walk": {
@@ -27201,7 +27219,7 @@
       }
     }
   },
-  "generated_at": "2026-07-01T17:14:56.142486+00:00",
+  "generated_at": "2026-07-02T16:50:13.025774+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
