@@ -14327,6 +14327,15 @@
       "type": "GravelRide",
       "url": "https://www.strava.com/activities/19176617693",
       "year": 2026
+    },
+    {
+      "date": "2026-07-04",
+      "hour": 12,
+      "name": "Lunch Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19180116555",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27258,6 +27267,15 @@
           "distance": 1306.0,
           "elevation_gain": 0.0,
           "moving_time": 1022.0
+        },
+        "2026-07-04": {
+          "activity_ids": [
+            "19180116555"
+          ],
+          "count": 1,
+          "distance": 4916.6,
+          "elevation_gain": 74.7,
+          "moving_time": 4677.0
         }
       },
       "Yoga": {
@@ -27273,7 +27291,7 @@
       }
     }
   },
-  "generated_at": "2026-07-04T16:03:44.768329+00:00",
+  "generated_at": "2026-07-05T16:10:21.864437+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
