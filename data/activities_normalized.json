@@ -20720,5 +20720,18 @@
     "start_date_local": "2026-07-05T10:07:03Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 47977.3,
+    "elevation_gain": 73.0,
+    "id": "19221599713",
+    "moving_time": 4526.0,
+    "name": "Zwift - TrainerRoad: Cumberland -3",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-07T18:19:08Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
