@@ -14372,6 +14372,15 @@
       "type": "GravelRide",
       "url": "https://www.strava.com/activities/19248060572",
       "year": 2026
+    },
+    {
+      "date": "2026-07-10",
+      "hour": 19,
+      "name": "Zwift - Easy Hour",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19262116955",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27274,6 +27283,15 @@
           "distance": 37263.1,
           "elevation_gain": 59.0,
           "moving_time": 3608.0
+        },
+        "2026-07-10": {
+          "activity_ids": [
+            "19262116955"
+          ],
+          "count": 1,
+          "distance": 34927.6,
+          "elevation_gain": 54.0,
+          "moving_time": 3618.0
         }
       },
       "Walk": {
@@ -27363,7 +27381,7 @@
       }
     }
   },
-  "generated_at": "2026-07-10T16:57:08.853060+00:00",
+  "generated_at": "2026-07-11T15:57:28.626336+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
