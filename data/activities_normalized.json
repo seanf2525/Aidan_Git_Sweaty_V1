@@ -20772,5 +20772,57 @@
     "start_date_local": "2026-07-10T19:32:19Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 10810.6,
+    "elevation_gain": 18.0,
+    "id": "19272149745",
+    "moving_time": 1058.0,
+    "name": "Zwift - TrainerRoad: Wheel",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-11T13:00:20Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 20201.6,
+    "elevation_gain": 32.0,
+    "id": "19272494285",
+    "moving_time": 1942.0,
+    "name": "Zwift - TrainerRoad: Wheel",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-11T13:22:23Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 49365.3,
+    "elevation_gain": 483.0,
+    "id": "19275058378",
+    "moving_time": 5765.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-11T17:54:54Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 48638.4,
+    "elevation_gain": 665.0,
+    "id": "19281391161",
+    "moving_time": 7069.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-07-12T06:07:33Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
