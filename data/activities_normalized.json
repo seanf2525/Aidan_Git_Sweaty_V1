@@ -20824,5 +20824,18 @@
     "start_date_local": "2026-07-12T06:07:33Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 2664.0,
+    "elevation_gain": 121.8,
+    "id": "19288229637",
+    "moving_time": 2465.0,
+    "name": "Evening Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-12T18:02:52Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]

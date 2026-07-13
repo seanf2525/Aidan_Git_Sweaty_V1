@@ -14417,6 +14417,15 @@
       "type": "GravelRide",
       "url": "https://www.strava.com/activities/19281391161",
       "year": 2026
+    },
+    {
+      "date": "2026-07-12",
+      "hour": 18,
+      "name": "Evening Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19288229637",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -25996,6 +26005,15 @@
           "distance": 14201.0,
           "elevation_gain": 1572.9,
           "moving_time": 18306.0
+        },
+        "2026-07-12": {
+          "activity_ids": [
+            "19288229637"
+          ],
+          "count": 1,
+          "distance": 2664.0,
+          "elevation_gain": 121.8,
+          "moving_time": 2465.0
         }
       },
       "MountainBikeRide": {
@@ -27445,7 +27463,7 @@
       }
     }
   },
-  "generated_at": "2026-07-12T16:00:27.214991+00:00",
+  "generated_at": "2026-07-13T17:13:29.393139+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
