@@ -20876,5 +20876,18 @@
     "start_date_local": "2026-07-18T07:30:19Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-21",
+    "distance": 8077.7,
+    "elevation_gain": 12.0,
+    "id": "19410216375",
+    "moving_time": 908.0,
+    "name": "Zwift - TrainerRoad: Lazy Mountain -1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-21T18:50:33Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

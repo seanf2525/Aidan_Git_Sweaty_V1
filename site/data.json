@@ -14453,6 +14453,15 @@
       "type": "GravelRide",
       "url": "https://www.strava.com/activities/19366281655",
       "year": 2026
+    },
+    {
+      "date": "2026-07-21",
+      "hour": 18,
+      "name": "Zwift - TrainerRoad: Lazy Mountain -1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19410216375",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27428,6 +27437,15 @@
           "distance": 31012.199999999997,
           "elevation_gain": 50.0,
           "moving_time": 3000.0
+        },
+        "2026-07-21": {
+          "activity_ids": [
+            "19410216375"
+          ],
+          "count": 1,
+          "distance": 8077.7,
+          "elevation_gain": 12.0,
+          "moving_time": 908.0
         }
       },
       "Walk": {
@@ -27517,7 +27535,7 @@
       }
     }
   },
-  "generated_at": "2026-07-21T16:23:20.609291+00:00",
+  "generated_at": "2026-07-22T16:20:37.345759+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
