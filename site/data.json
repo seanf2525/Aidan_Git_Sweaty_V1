@@ -14462,6 +14462,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19410216375",
       "year": 2026
+    },
+    {
+      "date": "2026-07-22",
+      "hour": 19,
+      "name": "Zwift - Group Ride: Long - Stage 3 - Tour Fever",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19425104322",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27446,6 +27455,15 @@
           "distance": 8077.7,
           "elevation_gain": 12.0,
           "moving_time": 908.0
+        },
+        "2026-07-22": {
+          "activity_ids": [
+            "19425104322"
+          ],
+          "count": 1,
+          "distance": 14401.4,
+          "elevation_gain": 105.0,
+          "moving_time": 1815.0
         }
       },
       "Walk": {
@@ -27535,7 +27553,7 @@
       }
     }
   },
-  "generated_at": "2026-07-22T16:20:37.345759+00:00",
+  "generated_at": "2026-07-23T16:27:28.821558+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
