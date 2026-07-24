@@ -14471,6 +14471,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19425104322",
       "year": 2026
+    },
+    {
+      "date": "2026-07-23",
+      "hour": 19,
+      "name": "Zwift - TrainerRoad: Kunde",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19438937048",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-23",
+      "hour": 19,
+      "name": "Zwift - Half an Hour of Relaxation",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19438988004",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27464,6 +27482,16 @@
           "distance": 14401.4,
           "elevation_gain": 105.0,
           "moving_time": 1815.0
+        },
+        "2026-07-23": {
+          "activity_ids": [
+            "19438937048",
+            "19438988004"
+          ],
+          "count": 2,
+          "distance": 18172.399999999998,
+          "elevation_gain": 30.0,
+          "moving_time": 1905.0
         }
       },
       "Walk": {
@@ -27553,7 +27581,7 @@
       }
     }
   },
-  "generated_at": "2026-07-23T16:27:28.821558+00:00",
+  "generated_at": "2026-07-24T16:43:35.922171+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",

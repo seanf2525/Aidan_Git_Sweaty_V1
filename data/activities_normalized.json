@@ -20902,5 +20902,31 @@
     "start_date_local": "2026-07-22T19:24:26Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-23",
+    "distance": 16034.8,
+    "elevation_gain": 26.0,
+    "id": "19438937048",
+    "moving_time": 1635.0,
+    "name": "Zwift - TrainerRoad: Kunde",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-23T19:16:48Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-23",
+    "distance": 2137.6,
+    "elevation_gain": 4.0,
+    "id": "19438988004",
+    "moving_time": 270.0,
+    "name": "Zwift - Half an Hour of Relaxation",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-23T19:47:44Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
