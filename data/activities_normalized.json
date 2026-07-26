@@ -20941,5 +20941,31 @@
     "start_date_local": "2026-07-24T17:50:37Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 70847.9,
+    "elevation_gain": 1328.0,
+    "id": "19462288047",
+    "moving_time": 9986.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-25T10:21:07Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 771.5,
+    "elevation_gain": 0.0,
+    "id": "19465008322",
+    "moving_time": 1219.0,
+    "name": "Afternoon Stand Up Paddling",
+    "raw_activity_type": "StandUpPaddling",
+    "raw_type": "StandUpPaddling",
+    "start_date_local": "2026-07-25T17:52:26Z",
+    "type": "StandUpPaddling",
+    "year": 2026
   }
 ]
