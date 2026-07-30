@@ -20980,5 +20980,31 @@
     "start_date_local": "2026-07-26T09:49:53Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-29",
+    "distance": 29920.0,
+    "elevation_gain": 46.0,
+    "id": "19521480232",
+    "moving_time": 2827.0,
+    "name": "Zwift - TrainerRoad: Beech",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-29T18:06:49Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-29",
+    "distance": 6930.6,
+    "elevation_gain": 12.0,
+    "id": "19521632053",
+    "moving_time": 907.0,
+    "name": "Zwift - Renewal",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-29T18:54:32Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
