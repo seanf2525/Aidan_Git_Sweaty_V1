@@ -14543,6 +14543,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19521632053",
       "year": 2026
+    },
+    {
+      "date": "2026-07-30",
+      "hour": 18,
+      "name": "Zwift - TrainerRoad: Icefall -4",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19535341845",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-30",
+      "hour": 18,
+      "name": "Zwift - TrainerRoad: Birch",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19535808266",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27592,6 +27610,16 @@
           "distance": 36850.6,
           "elevation_gain": 58.0,
           "moving_time": 3734.0
+        },
+        "2026-07-30": {
+          "activity_ids": [
+            "19535341845",
+            "19535808266"
+          ],
+          "count": 2,
+          "distance": 44101.899999999994,
+          "elevation_gain": 69.0,
+          "moving_time": 4312.0
         }
       },
       "Walk": {
@@ -27681,7 +27709,7 @@
       }
     }
   },
-  "generated_at": "2026-07-30T16:27:23.301816+00:00",
+  "generated_at": "2026-07-31T16:46:32.066490+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",

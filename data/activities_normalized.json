@@ -21006,5 +21006,31 @@
     "start_date_local": "2026-07-29T18:54:32Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-30",
+    "distance": 16364.3,
+    "elevation_gain": 26.0,
+    "id": "19535341845",
+    "moving_time": 1604.0,
+    "name": "Zwift - TrainerRoad: Icefall -4",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-30T18:21:55Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-30",
+    "distance": 27737.6,
+    "elevation_gain": 43.0,
+    "id": "19535808266",
+    "moving_time": 2708.0,
+    "name": "Zwift - TrainerRoad: Birch",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-30T18:52:59Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
