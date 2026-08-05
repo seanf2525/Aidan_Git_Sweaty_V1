@@ -14575,9 +14575,27 @@
       "date": "2026-08-02",
       "hour": 8,
       "name": "Morning Ride",
-      "subtype": "Ride",
-      "type": "Ride",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
       "url": "https://www.strava.com/activities/19572422190",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-04",
+      "hour": 19,
+      "name": "Zwift - TrainerRoad: Martellese",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19604714250",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-04",
+      "hour": 19,
+      "name": "Zwift - Group Ride: Long - Stage 5 - Tour Fever",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19604773263",
       "year": 2026
     }
   ],
@@ -26074,6 +26092,15 @@
           "distance": 105633.0,
           "elevation_gain": 2077.0,
           "moving_time": 16495.0
+        },
+        "2026-08-02": {
+          "activity_ids": [
+            "19572422190"
+          ],
+          "count": 1,
+          "distance": 71534.3,
+          "elevation_gain": 1117.0,
+          "moving_time": 11929.0
         }
       },
       "Hike": {
@@ -26519,15 +26546,6 @@
           "distance": 70847.9,
           "elevation_gain": 1328.0,
           "moving_time": 9986.0
-        },
-        "2026-08-02": {
-          "activity_ids": [
-            "19572422190"
-          ],
-          "count": 1,
-          "distance": 71534.3,
-          "elevation_gain": 1117.0,
-          "moving_time": 11929.0
         }
       },
       "StandUpPaddling": {
@@ -27656,6 +27674,16 @@
           "distance": 44101.899999999994,
           "elevation_gain": 69.0,
           "moving_time": 4312.0
+        },
+        "2026-08-04": {
+          "activity_ids": [
+            "19604714250",
+            "19604773263"
+          ],
+          "count": 2,
+          "distance": 7884.0,
+          "elevation_gain": 20.0,
+          "moving_time": 789.0
         }
       },
       "Walk": {
@@ -27745,7 +27773,7 @@
       }
     }
   },
-  "generated_at": "2026-08-04T16:52:27.817368+00:00",
+  "generated_at": "2026-08-05T16:43:07.414723+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",

@@ -21054,9 +21054,35 @@
     "moving_time": 11929.0,
     "name": "Morning Ride",
     "raw_activity_type": "Ride",
-    "raw_type": "Ride",
+    "raw_type": "GravelRide",
     "start_date_local": "2026-08-02T08:29:30Z",
-    "type": "Ride",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 5014.0,
+    "elevation_gain": 6.0,
+    "id": "19604714250",
+    "moving_time": 518.0,
+    "name": "Zwift - TrainerRoad: Martellese",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-04T19:00:24Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 2870.0,
+    "elevation_gain": 14.0,
+    "id": "19604773263",
+    "moving_time": 271.0,
+    "name": "Zwift - Group Ride: Long - Stage 5 - Tour Fever",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-04T19:09:57Z",
+    "type": "VirtualRide",
     "year": 2026
   }
 ]
