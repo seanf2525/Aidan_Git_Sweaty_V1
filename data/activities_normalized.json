@@ -21084,5 +21084,31 @@
     "start_date_local": "2026-08-04T19:09:57Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 48825.4,
+    "elevation_gain": 1135.0,
+    "id": "19619613562",
+    "moving_time": 6993.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-08-05T17:24:41Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 12298.8,
+    "elevation_gain": 20.0,
+    "id": "19633525236",
+    "moving_time": 1273.0,
+    "name": "Zwift - TrainerRoad: Cramer",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-06T18:31:48Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
