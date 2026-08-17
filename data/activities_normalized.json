@@ -21162,5 +21162,18 @@
     "start_date_local": "2026-08-15T08:34:58Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 52709.7,
+    "elevation_gain": 80.0,
+    "id": "19772739715",
+    "moving_time": 5448.0,
+    "name": "Zwift - TrainerRoad: Gentoo",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-16T16:44:38Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
