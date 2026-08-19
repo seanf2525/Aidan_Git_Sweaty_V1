@@ -14669,6 +14669,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19783496084",
       "year": 2026
+    },
+    {
+      "date": "2026-08-18",
+      "hour": 12,
+      "name": "Zwift - TrainerRoad: James",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19797412724",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27812,6 +27821,15 @@
           "distance": 36299.7,
           "elevation_gain": 56.0,
           "moving_time": 3614.0
+        },
+        "2026-08-18": {
+          "activity_ids": [
+            "19797412724"
+          ],
+          "count": 1,
+          "distance": 57109.6,
+          "elevation_gain": 85.0,
+          "moving_time": 5418.0
         }
       },
       "Walk": {
@@ -27901,7 +27919,7 @@
       }
     }
   },
-  "generated_at": "2026-08-18T15:32:25.528562+00:00",
+  "generated_at": "2026-08-19T15:32:06.146826+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",

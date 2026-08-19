@@ -21188,5 +21188,18 @@
     "start_date_local": "2026-08-17T13:41:00Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 57109.6,
+    "elevation_gain": 85.0,
+    "id": "19797412724",
+    "moving_time": 5418.0,
+    "name": "Zwift - TrainerRoad: James",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-18T12:06:40Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
