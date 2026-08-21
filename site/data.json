@@ -14678,6 +14678,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19797412724",
       "year": 2026
+    },
+    {
+      "date": "2026-08-20",
+      "hour": 12,
+      "name": "Zwift - TrainerRoad: Phoenix -3",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19827128569",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27830,6 +27839,15 @@
           "distance": 57109.6,
           "elevation_gain": 85.0,
           "moving_time": 5418.0
+        },
+        "2026-08-20": {
+          "activity_ids": [
+            "19827128569"
+          ],
+          "count": 1,
+          "distance": 56251.1,
+          "elevation_gain": 85.0,
+          "moving_time": 5414.0
         }
       },
       "Walk": {
@@ -27919,7 +27937,7 @@
       }
     }
   },
-  "generated_at": "2026-08-20T15:34:43.940921+00:00",
+  "generated_at": "2026-08-21T15:34:04.903868+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",

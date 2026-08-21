@@ -21201,5 +21201,18 @@
     "start_date_local": "2026-08-18T12:06:40Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-20",
+    "distance": 56251.1,
+    "elevation_gain": 85.0,
+    "id": "19827128569",
+    "moving_time": 5414.0,
+    "name": "Zwift - TrainerRoad: Phoenix -3",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-20T12:43:09Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
