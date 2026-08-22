@@ -21214,5 +21214,18 @@
     "start_date_local": "2026-08-20T12:43:09Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-21",
+    "distance": 48942.1,
+    "elevation_gain": 1166.0,
+    "id": "19839660174",
+    "moving_time": 6819.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-21T11:07:04Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
