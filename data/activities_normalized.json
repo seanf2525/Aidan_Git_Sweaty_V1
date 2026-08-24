@@ -21240,5 +21240,31 @@
     "start_date_local": "2026-08-22T13:04:59Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 47146.8,
+    "elevation_gain": 709.0,
+    "id": "19867808762",
+    "moving_time": 5992.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-08-23T10:22:51Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 1709.7,
+    "elevation_gain": 7.1,
+    "id": "19871705761",
+    "moving_time": 1659.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-23T18:30:17Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
