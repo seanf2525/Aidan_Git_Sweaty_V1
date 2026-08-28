@@ -14725,12 +14725,39 @@
       "year": 2026
     },
     {
+      "date": "2026-08-23",
+      "hour": 12,
+      "name": "OTHER",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19914434209",
+      "year": 2026
+    },
+    {
       "date": "2026-08-25",
       "hour": 19,
       "name": "Zwift - TrainerRoad: Mills +4",
       "subtype": "VirtualRide",
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19901620398",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-26",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19915198414",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-27",
+      "hour": 19,
+      "name": "Zwift - TrainerRoad: Black",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19929631276",
       "year": 2026
     }
   ],
@@ -26727,6 +26754,24 @@
           "distance": 48942.1,
           "elevation_gain": 1166.0,
           "moving_time": 6819.0
+        },
+        "2026-08-23": {
+          "activity_ids": [
+            "19914434209"
+          ],
+          "count": 1,
+          "distance": 2258.8,
+          "elevation_gain": 7.0,
+          "moving_time": 871.0
+        },
+        "2026-08-26": {
+          "activity_ids": [
+            "19915198414"
+          ],
+          "count": 1,
+          "distance": 30922.0,
+          "elevation_gain": 559.0,
+          "moving_time": 4666.0
         }
       },
       "StandUpPaddling": {
@@ -27929,6 +27974,15 @@
           "distance": 53455.1,
           "elevation_gain": 83.0,
           "moving_time": 5428.0
+        },
+        "2026-08-27": {
+          "activity_ids": [
+            "19929631276"
+          ],
+          "count": 1,
+          "distance": 6577.7,
+          "elevation_gain": 12.0,
+          "moving_time": 669.0
         }
       },
       "Walk": {
@@ -28027,7 +28081,7 @@
       }
     }
   },
-  "generated_at": "2026-08-26T16:18:18.555994+00:00",
+  "generated_at": "2026-08-28T00:17:01.677279+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",

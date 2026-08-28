@@ -21268,6 +21268,19 @@
     "year": 2026
   },
   {
+    "date": "2026-08-23",
+    "distance": 2258.8,
+    "elevation_gain": 7.0,
+    "id": "19914434209",
+    "moving_time": 871.0,
+    "name": "OTHER",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-23T12:04:00Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
     "date": "2026-08-25",
     "distance": 53455.1,
     "elevation_gain": 83.0,
@@ -21277,6 +21290,32 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-08-25T19:32:11Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 30922.0,
+    "elevation_gain": 559.0,
+    "id": "19915198414",
+    "moving_time": 4666.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-26T17:34:41Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-27",
+    "distance": 6577.7,
+    "elevation_gain": 12.0,
+    "id": "19929631276",
+    "moving_time": 669.0,
+    "name": "Zwift - TrainerRoad: Black",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-27T19:43:35Z",
     "type": "VirtualRide",
     "year": 2026
   }
