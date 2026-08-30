@@ -21331,5 +21331,31 @@
     "start_date_local": "2026-08-28T17:35:06Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 5899.3,
+    "elevation_gain": 11.0,
+    "id": "19955678447",
+    "moving_time": 616.0,
+    "name": "Zwift - TrainerRoad: Black",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-29T19:39:33Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 12811.1,
+    "elevation_gain": 20.0,
+    "id": "19955914045",
+    "moving_time": 1560.0,
+    "name": "Zwift - TrainerRoad: Lazy Mountain -1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-29T19:51:18Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
