@@ -14786,6 +14786,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19955914045",
       "year": 2026
+    },
+    {
+      "date": "2026-08-31",
+      "hour": 18,
+      "name": "Zwift - TrainerRoad: Picket Guard +2",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19982735191",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-31",
+      "hour": 19,
+      "name": "Zwift - TrainerRoad: West Vidette +1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19982865026",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28029,6 +28047,16 @@
           "distance": 18710.4,
           "elevation_gain": 31.0,
           "moving_time": 2176.0
+        },
+        "2026-08-31": {
+          "activity_ids": [
+            "19982735191",
+            "19982865026"
+          ],
+          "count": 2,
+          "distance": 31503.0,
+          "elevation_gain": 51.0,
+          "moving_time": 3154.0
         }
       },
       "Walk": {
@@ -28127,7 +28155,7 @@
       }
     }
   },
-  "generated_at": "2026-08-31T20:41:54.563229+00:00",
+  "generated_at": "2026-09-01T18:13:01.383727+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",

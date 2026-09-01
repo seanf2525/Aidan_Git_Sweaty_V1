@@ -21357,5 +21357,31 @@
     "start_date_local": "2026-08-29T19:51:18Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-31",
+    "distance": 28196.9,
+    "elevation_gain": 45.0,
+    "id": "19982735191",
+    "moving_time": 2794.0,
+    "name": "Zwift - TrainerRoad: Picket Guard +2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-31T18:39:55Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-31",
+    "distance": 3306.1,
+    "elevation_gain": 6.0,
+    "id": "19982865026",
+    "moving_time": 360.0,
+    "name": "Zwift - TrainerRoad: West Vidette +1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-31T19:33:03Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
