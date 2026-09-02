@@ -21383,5 +21383,31 @@
     "start_date_local": "2026-08-31T19:33:03Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 16401.5,
+    "elevation_gain": 26.0,
+    "id": "19998044204",
+    "moving_time": 1607.0,
+    "name": "Zwift - TrainerRoad: Desperation",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-01T19:08:39Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 10408.6,
+    "elevation_gain": 16.0,
+    "id": "19998377442",
+    "moving_time": 1219.0,
+    "name": "Zwift - TrainerRoad: Lazy Mountain -2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-01T19:45:08Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

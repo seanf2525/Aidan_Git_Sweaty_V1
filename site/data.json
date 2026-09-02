@@ -14804,6 +14804,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19982865026",
       "year": 2026
+    },
+    {
+      "date": "2026-09-01",
+      "hour": 19,
+      "name": "Zwift - TrainerRoad: Desperation",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19998044204",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-01",
+      "hour": 19,
+      "name": "Zwift - TrainerRoad: Lazy Mountain -2",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19998377442",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28057,6 +28075,16 @@
           "distance": 31503.0,
           "elevation_gain": 51.0,
           "moving_time": 3154.0
+        },
+        "2026-09-01": {
+          "activity_ids": [
+            "19998044204",
+            "19998377442"
+          ],
+          "count": 2,
+          "distance": 26810.1,
+          "elevation_gain": 42.0,
+          "moving_time": 2826.0
         }
       },
       "Walk": {
@@ -28155,7 +28183,7 @@
       }
     }
   },
-  "generated_at": "2026-09-01T18:13:01.383727+00:00",
+  "generated_at": "2026-09-02T18:27:40.116314+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
