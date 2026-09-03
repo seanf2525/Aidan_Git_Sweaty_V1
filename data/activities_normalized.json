@@ -21409,5 +21409,18 @@
     "start_date_local": "2026-09-01T19:45:08Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-02",
+    "distance": 45106.7,
+    "elevation_gain": 69.0,
+    "id": "20012827898",
+    "moving_time": 4508.0,
+    "name": "Zwift - TrainerRoad: Vincent",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-02T18:16:56Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
