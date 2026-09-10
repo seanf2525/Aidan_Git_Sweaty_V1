@@ -21487,5 +21487,18 @@
     "start_date_local": "2026-09-08T19:37:51Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-09",
+    "distance": 56946.2,
+    "elevation_gain": 85.0,
+    "id": "20110592882",
+    "moving_time": 5416.0,
+    "name": "Zwift - TrainerRoad: Eclipse",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-09T19:22:25Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
