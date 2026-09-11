@@ -21500,5 +21500,31 @@
     "start_date_local": "2026-09-09T19:22:25Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-10",
+    "distance": 25595.5,
+    "elevation_gain": 39.0,
+    "id": "20123617649",
+    "moving_time": 2564.0,
+    "name": "Zwift - TrainerRoad: Collins +1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-10T18:54:30Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-10",
+    "distance": 9768.4,
+    "elevation_gain": 16.0,
+    "id": "20123863331",
+    "moving_time": 1090.0,
+    "name": "Zwift - TrainerRoad: Recess -5",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-10T19:44:11Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
