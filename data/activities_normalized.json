@@ -21526,5 +21526,31 @@
     "start_date_local": "2026-09-10T19:44:11Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-11",
+    "distance": 144.6,
+    "elevation_gain": 0.0,
+    "id": "20137545269",
+    "moving_time": 25.0,
+    "name": "Night Ride",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-11T22:06:32Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 35367.7,
+    "elevation_gain": 993.6,
+    "id": "20137604549",
+    "moving_time": 3602.0,
+    "name": "09/11/26",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-12T11:59:00Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
