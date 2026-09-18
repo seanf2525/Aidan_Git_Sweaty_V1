@@ -21591,5 +21591,18 @@
     "start_date_local": "2026-09-15T17:28:00Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-17",
+    "distance": 58238.5,
+    "elevation_gain": 91.0,
+    "id": "20220513915",
+    "moving_time": 5415.0,
+    "name": "Zwift - TrainerRoad: Monitor +5",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-17T17:54:00Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

@@ -14948,6 +14948,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20192395268",
       "year": 2026
+    },
+    {
+      "date": "2026-09-17",
+      "hour": 17,
+      "name": "Zwift - TrainerRoad: Monitor +5",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20220513915",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28321,6 +28330,15 @@
           "distance": 58691.6,
           "elevation_gain": 91.0,
           "moving_time": 5416.0
+        },
+        "2026-09-17": {
+          "activity_ids": [
+            "20220513915"
+          ],
+          "count": 1,
+          "distance": 58238.5,
+          "elevation_gain": 91.0,
+          "moving_time": 5415.0
         }
       },
       "Walk": {
@@ -28419,7 +28437,7 @@
       }
     }
   },
-  "generated_at": "2026-09-17T18:50:39.192909+00:00",
+  "generated_at": "2026-09-18T18:07:07.678074+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
