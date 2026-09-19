@@ -14957,6 +14957,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20220513915",
       "year": 2026
+    },
+    {
+      "date": "2026-09-18",
+      "hour": 17,
+      "name": "Zwift - TrainerRoad: White -5",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20232368694",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28339,6 +28348,15 @@
           "distance": 58238.5,
           "elevation_gain": 91.0,
           "moving_time": 5415.0
+        },
+        "2026-09-18": {
+          "activity_ids": [
+            "20232368694"
+          ],
+          "count": 1,
+          "distance": 36635.2,
+          "elevation_gain": 57.0,
+          "moving_time": 3618.0
         }
       },
       "Walk": {
@@ -28437,7 +28455,7 @@
       }
     }
   },
-  "generated_at": "2026-09-18T18:07:07.678074+00:00",
+  "generated_at": "2026-09-19T17:49:09.659563+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
