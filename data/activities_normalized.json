@@ -21617,5 +21617,70 @@
     "start_date_local": "2026-09-18T17:08:02Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 92765.8,
+    "elevation_gain": 1981.0,
+    "id": "20245471470",
+    "moving_time": 14115.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-09-19T11:20:42Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 2545.6,
+    "elevation_gain": 64.5,
+    "id": "20246546418",
+    "moving_time": 1933.0,
+    "name": "Afternoon Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-09-19T16:05:22Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 3327.4,
+    "elevation_gain": 98.5,
+    "id": "20247173287",
+    "moving_time": 2867.0,
+    "name": "Evening Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-09-19T18:34:58Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-20",
+    "distance": 1643.5,
+    "elevation_gain": 93.2,
+    "id": "20254934974",
+    "moving_time": 1686.0,
+    "name": "Morning Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-09-20T08:34:21Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-20",
+    "distance": 8020.1,
+    "elevation_gain": 571.0,
+    "id": "20258910733",
+    "moving_time": 11021.0,
+    "name": "Morning Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-09-20T10:13:46Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
