@@ -15011,6 +15011,24 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/20258910733",
       "year": 2026
+    },
+    {
+      "date": "2026-09-21",
+      "hour": 8,
+      "name": "Morning Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20266634554",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-21",
+      "hour": 11,
+      "name": "Lunch Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20268969992",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28514,6 +28532,16 @@
           "distance": 1709.7,
           "elevation_gain": 7.1,
           "moving_time": 1659.0
+        },
+        "2026-09-21": {
+          "activity_ids": [
+            "20266634554",
+            "20268969992"
+          ],
+          "count": 2,
+          "distance": 2729.7,
+          "elevation_gain": 6.6,
+          "moving_time": 1822.0
         }
       },
       "Yoga": {
@@ -28529,7 +28557,7 @@
       }
     }
   },
-  "generated_at": "2026-09-20T18:02:29.794487+00:00",
+  "generated_at": "2026-09-21T19:53:18.037027+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
