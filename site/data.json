@@ -15038,6 +15038,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20299929219",
       "year": 2026
+    },
+    {
+      "date": "2026-09-24",
+      "hour": 10,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20313378651",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27107,6 +27116,15 @@
           "distance": 35367.7,
           "elevation_gain": 993.6,
           "moving_time": 3602.0
+        },
+        "2026-09-24": {
+          "activity_ids": [
+            "20313378651"
+          ],
+          "count": 1,
+          "distance": 48781.4,
+          "elevation_gain": 1181.0,
+          "moving_time": 8160.0
         }
       },
       "StandUpPaddling": {
@@ -28575,7 +28593,7 @@
       }
     }
   },
-  "generated_at": "2026-09-23T18:53:34.323941+00:00",
+  "generated_at": "2026-09-24T18:51:18.158389+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
