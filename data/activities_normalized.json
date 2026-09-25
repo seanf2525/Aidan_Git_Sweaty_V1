@@ -21734,5 +21734,18 @@
     "start_date_local": "2026-09-24T10:46:30Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-25",
+    "distance": 35196.5,
+    "elevation_gain": 54.0,
+    "id": "20327529516",
+    "moving_time": 3617.0,
+    "name": "Zwift - TrainerRoad: Bess",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-25T13:43:29Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
