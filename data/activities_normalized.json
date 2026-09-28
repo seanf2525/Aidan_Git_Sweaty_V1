@@ -21760,5 +21760,31 @@
     "start_date_local": "2026-09-26T12:35:26Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-27",
+    "distance": 5421.2,
+    "elevation_gain": 10.0,
+    "id": "20356840131",
+    "moving_time": 614.0,
+    "name": "Zwift - TrainerRoad: Perkins -1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-27T15:48:29Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-27",
+    "distance": 7891.4,
+    "elevation_gain": 12.0,
+    "id": "20356968006",
+    "moving_time": 946.0,
+    "name": "Zwift - Tempus Fugit in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-27T16:02:10Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

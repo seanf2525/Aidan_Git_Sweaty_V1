@@ -15065,6 +15065,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20341493461",
       "year": 2026
+    },
+    {
+      "date": "2026-09-27",
+      "hour": 15,
+      "name": "Zwift - TrainerRoad: Perkins -1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20356840131",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-27",
+      "hour": 16,
+      "name": "Zwift - Tempus Fugit in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20356968006",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28521,6 +28539,16 @@
           "distance": 71244.1,
           "elevation_gain": 110.0,
           "moving_time": 7208.0
+        },
+        "2026-09-27": {
+          "activity_ids": [
+            "20356840131",
+            "20356968006"
+          ],
+          "count": 2,
+          "distance": 13312.599999999999,
+          "elevation_gain": 22.0,
+          "moving_time": 1560.0
         }
       },
       "Walk": {
@@ -28629,7 +28657,7 @@
       }
     }
   },
-  "generated_at": "2026-09-27T18:55:25.721301+00:00",
+  "generated_at": "2026-09-28T21:06:14.228183+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
