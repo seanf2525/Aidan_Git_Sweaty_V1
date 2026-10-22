@@ -15164,6 +15164,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20653924942",
       "year": 2026
+    },
+    {
+      "date": "2026-10-20",
+      "hour": 18,
+      "name": "Zwift - TrainerRoad: Pioneer -3",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20668050718",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-21",
+      "hour": 17,
+      "name": "Zwift - TrainerRoad: Hotakadake",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20681224020",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28703,6 +28721,24 @@
           "distance": 46068.3,
           "elevation_gain": 73.0,
           "moving_time": 4511.0
+        },
+        "2026-10-20": {
+          "activity_ids": [
+            "20668050718"
+          ],
+          "count": 1,
+          "distance": 36972.2,
+          "elevation_gain": 58.0,
+          "moving_time": 3625.0
+        },
+        "2026-10-21": {
+          "activity_ids": [
+            "20681224020"
+          ],
+          "count": 1,
+          "distance": 47087.0,
+          "elevation_gain": 73.0,
+          "moving_time": 4560.0
         }
       },
       "Walk": {
@@ -28811,7 +28847,7 @@
       }
     }
   },
-  "generated_at": "2026-10-20T18:59:16.367685+00:00",
+  "generated_at": "2026-10-22T19:04:21.925315+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
