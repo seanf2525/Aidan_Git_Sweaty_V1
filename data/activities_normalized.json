@@ -21929,5 +21929,44 @@
     "start_date_local": "2026-10-21T17:42:57Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-23",
+    "distance": 9261.4,
+    "elevation_gain": 15.0,
+    "id": "20704664627",
+    "moving_time": 996.0,
+    "name": "Zwift - TrainerRoad: Polar Bear -3",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-23T16:32:42Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-23",
+    "distance": 23742.1,
+    "elevation_gain": 269.0,
+    "id": "20705146300",
+    "moving_time": 2326.0,
+    "name": "Zwift - Race: Stage 3 - Race - Tour of Watopia 2026 (C)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-23T17:12:28Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-24",
+    "distance": 31505.5,
+    "elevation_gain": 352.0,
+    "id": "20714725139",
+    "moving_time": 4127.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-24T10:23:44Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
