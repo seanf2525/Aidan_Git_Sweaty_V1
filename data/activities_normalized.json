@@ -22007,5 +22007,18 @@
     "start_date_local": "2026-10-27T19:12:42Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-28",
+    "distance": 36277.4,
+    "elevation_gain": 57.0,
+    "id": "20772372192",
+    "moving_time": 3607.0,
+    "name": "Zwift - TrainerRoad: White -5",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-28T19:06:11Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
