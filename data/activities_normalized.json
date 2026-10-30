@@ -22020,5 +22020,18 @@
     "start_date_local": "2026-10-28T19:06:11Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-29",
+    "distance": 43007.7,
+    "elevation_gain": 65.0,
+    "id": "20785381202",
+    "moving_time": 4511.0,
+    "name": "Zwift - TrainerRoad: Lancaster",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-29T18:51:22Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
