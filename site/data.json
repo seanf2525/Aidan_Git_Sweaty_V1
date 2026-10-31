@@ -15254,6 +15254,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20785381202",
       "year": 2026
+    },
+    {
+      "date": "2026-10-30",
+      "hour": 18,
+      "name": "Zwift - TrainerRoad: Garrowby +5",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20797147985",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28867,6 +28876,15 @@
           "distance": 43007.7,
           "elevation_gain": 65.0,
           "moving_time": 4511.0
+        },
+        "2026-10-30": {
+          "activity_ids": [
+            "20797147985"
+          ],
+          "count": 1,
+          "distance": 57479.6,
+          "elevation_gain": 90.0,
+          "moving_time": 5421.0
         }
       },
       "Walk": {
@@ -28975,7 +28993,7 @@
       }
     }
   },
-  "generated_at": "2026-10-30T19:52:23.410439+00:00",
+  "generated_at": "2026-10-31T19:08:05.154106+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
