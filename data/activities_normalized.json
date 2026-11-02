@@ -22046,5 +22046,31 @@
     "start_date_local": "2026-10-30T18:21:27Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 8761.1,
+    "elevation_gain": 12.0,
+    "id": "20823811428",
+    "moving_time": 909.0,
+    "name": "Zwift - TrainerRoad: Brasstown",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-01T18:56:46Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 8645.2,
+    "elevation_gain": 12.0,
+    "id": "20823903657",
+    "moving_time": 907.0,
+    "name": "Zwift - TrainerRoad: Aspen",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-01T19:13:46Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
