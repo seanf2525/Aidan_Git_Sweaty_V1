@@ -22072,5 +22072,18 @@
     "start_date_local": "2026-11-01T19:13:46Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-02",
+    "distance": 35574.8,
+    "elevation_gain": 54.0,
+    "id": "20837154765",
+    "moving_time": 3617.0,
+    "name": "Zwift - TrainerRoad: Gora",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-02T19:56:48Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

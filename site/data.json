@@ -15281,6 +15281,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20823903657",
       "year": 2026
+    },
+    {
+      "date": "2026-11-02",
+      "hour": 19,
+      "name": "Zwift - TrainerRoad: Gora",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20837154765",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28913,6 +28922,15 @@
           "distance": 17406.300000000003,
           "elevation_gain": 24.0,
           "moving_time": 1816.0
+        },
+        "2026-11-02": {
+          "activity_ids": [
+            "20837154765"
+          ],
+          "count": 1,
+          "distance": 35574.8,
+          "elevation_gain": 54.0,
+          "moving_time": 3617.0
         }
       },
       "Walk": {
@@ -29021,7 +29039,7 @@
       }
     }
   },
-  "generated_at": "2026-11-02T23:00:21.507302+00:00",
+  "generated_at": "2026-11-03T20:48:22.680782+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
