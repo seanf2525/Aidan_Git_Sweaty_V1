@@ -22098,5 +22098,57 @@
     "start_date_local": "2026-11-04T20:58:59Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-05",
+    "distance": 3980.3,
+    "elevation_gain": 6.0,
+    "id": "20876873096",
+    "moving_time": 405.0,
+    "name": "Zwift - TrainerRoad: Eclipse",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-05T19:09:56Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-05",
+    "distance": 9559.8,
+    "elevation_gain": 16.0,
+    "id": "20877037938",
+    "moving_time": 920.0,
+    "name": "Zwift - TrainerRoad: James",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-05T19:20:30Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-05",
+    "distance": 2992.9,
+    "elevation_gain": 6.0,
+    "id": "20877104909",
+    "moving_time": 310.0,
+    "name": "Zwift - TrainerRoad: Black",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-05T19:38:49Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-05",
+    "distance": 6155.7,
+    "elevation_gain": 12.0,
+    "id": "20877234021",
+    "moving_time": 684.0,
+    "name": "Zwift - TrainerRoad: Recess -5",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-05T19:48:37Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
