@@ -15335,6 +15335,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20877234021",
       "year": 2026
+    },
+    {
+      "date": "2026-11-06",
+      "hour": 19,
+      "name": "Zwift - TrainerRoad: Ericsson +4",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20889070102",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-06",
+      "hour": 20,
+      "name": "Zwift - TrainerRoad: Bobb",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20889218814",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28997,6 +29015,16 @@
           "distance": 22688.7,
           "elevation_gain": 40.0,
           "moving_time": 2319.0
+        },
+        "2026-11-06": {
+          "activity_ids": [
+            "20889070102",
+            "20889218814"
+          ],
+          "count": 2,
+          "distance": 30315.7,
+          "elevation_gain": 46.0,
+          "moving_time": 3020.0
         }
       },
       "Walk": {
@@ -29105,7 +29133,7 @@
       }
     }
   },
-  "generated_at": "2026-11-06T20:43:00.980015+00:00",
+  "generated_at": "2026-11-07T19:16:32.550182+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",

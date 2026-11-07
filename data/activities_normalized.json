@@ -22150,5 +22150,31 @@
     "start_date_local": "2026-11-05T19:48:37Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-06",
+    "distance": 21222.7,
+    "elevation_gain": 32.0,
+    "id": "20889070102",
+    "moving_time": 2113.0,
+    "name": "Zwift - TrainerRoad: Ericsson +4",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-06T19:37:25Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-06",
+    "distance": 9093.0,
+    "elevation_gain": 14.0,
+    "id": "20889218814",
+    "moving_time": 907.0,
+    "name": "Zwift - TrainerRoad: Bobb",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-06T20:19:01Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
