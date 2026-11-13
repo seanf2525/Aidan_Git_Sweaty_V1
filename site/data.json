@@ -15380,6 +15380,51 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20941040250",
       "year": 2026
+    },
+    {
+      "date": "2026-11-12",
+      "hour": 19,
+      "name": "Zwift - TrainerRoad: Phoenix -3",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20967109188",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-13",
+      "hour": 13,
+      "name": "Zwift - TrainerRoad: Juneau -2",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20975296300",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-13",
+      "hour": 14,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20975562884",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-13",
+      "hour": 14,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20976216638",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-13",
+      "hour": 15,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20976343349",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27494,6 +27539,17 @@
           "distance": 33623.0,
           "elevation_gain": 64.0,
           "moving_time": 4965.0
+        },
+        "2026-11-13": {
+          "activity_ids": [
+            "20975562884",
+            "20976216638",
+            "20976343349"
+          ],
+          "count": 3,
+          "distance": 43700.799999999996,
+          "elevation_gain": 68.0,
+          "moving_time": 5716.0
         }
       },
       "StandUpPaddling": {
@@ -29079,6 +29135,24 @@
           "distance": 37424.6,
           "elevation_gain": 59.0,
           "moving_time": 3622.0
+        },
+        "2026-11-12": {
+          "activity_ids": [
+            "20967109188"
+          ],
+          "count": 1,
+          "distance": 56482.9,
+          "elevation_gain": 85.0,
+          "moving_time": 5442.0
+        },
+        "2026-11-13": {
+          "activity_ids": [
+            "20975296300"
+          ],
+          "count": 1,
+          "distance": 30242.6,
+          "elevation_gain": 47.0,
+          "moving_time": 2832.0
         }
       },
       "Walk": {
@@ -29187,7 +29261,7 @@
       }
     }
   },
-  "generated_at": "2026-11-12T21:45:41.405459+00:00",
+  "generated_at": "2026-11-13T21:14:16.553052+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",

@@ -22215,5 +22215,70 @@
     "start_date_local": "2026-11-10T19:22:48Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-12",
+    "distance": 56482.9,
+    "elevation_gain": 85.0,
+    "id": "20967109188",
+    "moving_time": 5442.0,
+    "name": "Zwift - TrainerRoad: Phoenix -3",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-12T19:22:53Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-13",
+    "distance": 30242.6,
+    "elevation_gain": 47.0,
+    "id": "20975296300",
+    "moving_time": 2832.0,
+    "name": "Zwift - TrainerRoad: Juneau -2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-13T13:04:04Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-13",
+    "distance": 46.4,
+    "elevation_gain": 0.0,
+    "id": "20975562884",
+    "moving_time": 9.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-13T14:21:12Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-13",
+    "distance": 39303.2,
+    "elevation_gain": 67.0,
+    "id": "20976216638",
+    "moving_time": 5000.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-13T14:22:14Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-13",
+    "distance": 4351.2,
+    "elevation_gain": 1.0,
+    "id": "20976343349",
+    "moving_time": 707.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-13T15:54:45Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
