@@ -15425,6 +15425,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20976343349",
       "year": 2026
+    },
+    {
+      "date": "2026-11-14",
+      "hour": 19,
+      "name": "Zwift - TrainerRoad: Navetta",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20990921368",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-14",
+      "hour": 19,
+      "name": "Zwift - TrainerRoad: Lazy Mountain -1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20991426747",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-15",
+      "hour": 12,
+      "name": "Zwift - TrainerRoad: Tirich",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/21001553649",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29153,6 +29180,25 @@
           "distance": 30242.6,
           "elevation_gain": 47.0,
           "moving_time": 2832.0
+        },
+        "2026-11-14": {
+          "activity_ids": [
+            "20990921368",
+            "20991426747"
+          ],
+          "count": 2,
+          "distance": 35255.0,
+          "elevation_gain": 58.0,
+          "moving_time": 3963.0
+        },
+        "2026-11-15": {
+          "activity_ids": [
+            "21001553649"
+          ],
+          "count": 1,
+          "distance": 76168.5,
+          "elevation_gain": 117.0,
+          "moving_time": 7290.0
         }
       },
       "Walk": {
@@ -29261,7 +29307,7 @@
       }
     }
   },
-  "generated_at": "2026-11-14T19:46:30.525508+00:00",
+  "generated_at": "2026-11-15T20:11:47.614041+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",

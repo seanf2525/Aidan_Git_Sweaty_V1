@@ -22280,5 +22280,44 @@
     "start_date_local": "2026-11-13T15:54:45Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-14",
+    "distance": 2900.8,
+    "elevation_gain": 6.0,
+    "id": "20990921368",
+    "moving_time": 328.0,
+    "name": "Zwift - TrainerRoad: Navetta",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-14T19:18:13Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-14",
+    "distance": 32354.2,
+    "elevation_gain": 52.0,
+    "id": "20991426747",
+    "moving_time": 3635.0,
+    "name": "Zwift - TrainerRoad: Lazy Mountain -1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-14T19:28:42Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-15",
+    "distance": 76168.5,
+    "elevation_gain": 117.0,
+    "id": "21001553649",
+    "moving_time": 7290.0,
+    "name": "Zwift - TrainerRoad: Tirich",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-15T12:09:59Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
