@@ -22332,5 +22332,18 @@
     "start_date_local": "2026-11-17T12:15:40Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-18",
+    "distance": 58904.9,
+    "elevation_gain": 91.0,
+    "id": "21038622098",
+    "moving_time": 5412.0,
+    "name": "Zwift - TrainerRoad: Andrews",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-18T13:07:48Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

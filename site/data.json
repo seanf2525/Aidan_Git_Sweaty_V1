@@ -15461,6 +15461,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/21024927553",
       "year": 2026
+    },
+    {
+      "date": "2026-11-18",
+      "hour": 13,
+      "name": "Zwift - TrainerRoad: Andrews",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/21038622098",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29217,6 +29226,15 @@
           "distance": 60958.5,
           "elevation_gain": 93.0,
           "moving_time": 5427.0
+        },
+        "2026-11-18": {
+          "activity_ids": [
+            "21038622098"
+          ],
+          "count": 1,
+          "distance": 58904.9,
+          "elevation_gain": 91.0,
+          "moving_time": 5412.0
         }
       },
       "Walk": {
@@ -29325,7 +29343,7 @@
       }
     }
   },
-  "generated_at": "2026-11-17T22:47:37.097839+00:00",
+  "generated_at": "2026-11-18T22:29:57.680236+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
