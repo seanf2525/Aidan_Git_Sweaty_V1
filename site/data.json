@@ -15475,9 +15475,18 @@
       "date": "2026-11-19",
       "hour": 11,
       "name": "Lunch Ride",
-      "subtype": "Ride",
-      "type": "Ride",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
       "url": "https://www.strava.com/activities/21050286054",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-20",
+      "hour": 14,
+      "name": "Zwift - TrainerRoad: Lazy Mountain -1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/21062625742",
       "year": 2026
     }
   ],
@@ -27055,6 +27064,15 @@
           "distance": 109343.0,
           "elevation_gain": 1894.0,
           "moving_time": 15976.0
+        },
+        "2026-11-19": {
+          "activity_ids": [
+            "21050286054"
+          ],
+          "count": 1,
+          "distance": 68029.4,
+          "elevation_gain": 1645.0,
+          "moving_time": 9836.0
         }
       },
       "Hike": {
@@ -27604,15 +27622,6 @@
           "distance": 43700.799999999996,
           "elevation_gain": 68.0,
           "moving_time": 5716.0
-        },
-        "2026-11-19": {
-          "activity_ids": [
-            "21050286054"
-          ],
-          "count": 1,
-          "distance": 68029.4,
-          "elevation_gain": 1645.0,
-          "moving_time": 9836.0
         }
       },
       "StandUpPaddling": {
@@ -29253,6 +29262,15 @@
           "distance": 58904.9,
           "elevation_gain": 91.0,
           "moving_time": 5412.0
+        },
+        "2026-11-20": {
+          "activity_ids": [
+            "21062625742"
+          ],
+          "count": 1,
+          "distance": 32815.0,
+          "elevation_gain": 52.0,
+          "moving_time": 3657.0
         }
       },
       "Walk": {
@@ -29361,7 +29379,7 @@
       }
     }
   },
-  "generated_at": "2026-11-19T22:35:26.232572+00:00",
+  "generated_at": "2026-11-20T22:08:24.964283+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
