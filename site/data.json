@@ -15533,6 +15533,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/21110207399",
       "year": 2026
+    },
+    {
+      "date": "2026-11-25",
+      "hour": 11,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/21123596648",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27667,6 +27676,15 @@
           "distance": 43700.799999999996,
           "elevation_gain": 68.0,
           "moving_time": 5716.0
+        },
+        "2026-11-25": {
+          "activity_ids": [
+            "21123596648"
+          ],
+          "count": 1,
+          "distance": 60923.9,
+          "elevation_gain": 1178.0,
+          "moving_time": 9274.0
         }
       },
       "StandUpPaddling": {
@@ -29453,7 +29471,7 @@
       }
     }
   },
-  "generated_at": "2026-11-24T23:46:44.846892+00:00",
+  "generated_at": "2026-11-25T23:29:17.761421+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/42452238",
   "repo": "seanf2525/Aidan_Git_Sweaty_V1",
