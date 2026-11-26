@@ -22449,5 +22449,18 @@
     "start_date_local": "2026-11-25T11:40:27Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-26",
+    "distance": 48441.5,
+    "elevation_gain": 262.0,
+    "id": "21133702280",
+    "moving_time": 4154.0,
+    "name": "Zwift - Group Ride: Applewood Cycling Group Ride (B)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-26T10:31:29Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
