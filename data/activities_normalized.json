@@ -22462,5 +22462,18 @@
     "start_date_local": "2026-11-26T10:31:29Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-27",
+    "distance": 37848.6,
+    "elevation_gain": 59.0,
+    "id": "21145346586",
+    "moving_time": 3609.0,
+    "name": "Zwift - TrainerRoad: Black",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-27T11:55:59Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
